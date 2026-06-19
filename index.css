@@ -1,6 +1,6 @@
 h1{
   text-align: center;
-  background-color: blue;
+  background-color: red;
 }
 body{
     
@@ -17,11 +17,20 @@ footer{
 main{
     text-align: justify;
 }
+img{
+    width: 200px;
+    object-fit: cover;
+    border: 2px solid black;
+}
+.madre{
+    color: green;
+    text-align: justify;
+}
 .lobo{
     color: blue;
-    text-align: right;
+    text-align: justify;
 }
 .caperucita{
     color: red;
-    text-align: right;
+    text-align: justify;
 }
