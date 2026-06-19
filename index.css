@@ -1,0 +1,27 @@
+h1{
+  text-align: center;
+  background-color: blue;
+}
+body{
+    
+     background-color: rgb(143, 160, 175);
+}
+
+nav{
+    background-color: bisque;
+}
+footer{
+    background-color: beige;
+    text-align: center;
+}
+main{
+    text-align: justify;
+}
+.lobo{
+    color: blue;
+    text-align: right;
+}
+.caperucita{
+    color: red;
+    text-align: right;
+}
